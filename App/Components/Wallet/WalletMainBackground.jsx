@@ -122,12 +122,14 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     fontSize: 18,
     color: "white",
+    
   },
   balanceValue: {
     color: "#ECB425",
     fontWeight: "bold",
     fontSize: 18,
     marginTop: 5,
+    marginLeft:5,
   },
   amountDetailsContainer: {
     marginHorizontal: 20,
